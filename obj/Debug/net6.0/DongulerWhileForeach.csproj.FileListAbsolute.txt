@@ -1,0 +1,15 @@
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\bin\Debug\net6.0\DongulerWhileForeach.exe
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\bin\Debug\net6.0\DongulerWhileForeach.deps.json
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\bin\Debug\net6.0\DongulerWhileForeach.runtimeconfig.json
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\bin\Debug\net6.0\DongulerWhileForeach.dll
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\bin\Debug\net6.0\DongulerWhileForeach.pdb
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.csproj.AssemblyReference.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.AssemblyInfoInputs.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.AssemblyInfo.cs
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.dll
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\refint\DongulerWhileForeach.dll
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.pdb
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\DongulerWhileForeach.genruntimeconfig.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerWhileForeach\obj\Debug\net6.0\ref\DongulerWhileForeach.dll
